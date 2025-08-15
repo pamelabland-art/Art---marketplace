@@ -1,4 +1,4 @@
-export default function HomePage() {
+export default function Page() {
   return (
     <main style={{padding: '2rem', fontFamily: 'Arial, sans-serif'}}>
       <h1 style={{fontSize: '2.5rem', marginBottom: '1rem', color: '#333'}}>
